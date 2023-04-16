@@ -26,3 +26,4 @@ Good Bye Jim
         }
     }
 })();
+console.log("console is added from masetererrr")
